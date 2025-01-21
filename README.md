@@ -1,5 +1,5 @@
-#AI ColourPal - FLUX Color Consistency Project
-##Introduction
+# AI ColourPal - FLUX Color Consistency Project
+## Introduction
 This repository is dedicated to determining the tokens needed for the image generation model FLUX ito consistently producing accurate colours. After rigorous testing and analysis, this project provides a curated list of 1,000 color descriptions that FLUX interprets with some degree of fidelity, along with their corresponding hexadecimal codes.
 
 Project Structure
