@@ -20,13 +20,13 @@ From each pair of generated images (swatches and t-shirts), a central square (33
 ### Step 4: Additional Imagery and Final Assessment
 Further testing involved generating images of cats, houses, walls, scenes, planets, mugs and wooden panels in the selected colors. These images underwent a final round of color accuracy evaluation using comparison scores. Some colours that showed low fidelity across tests were excluded from the final list.
 
-### Step 5: We ran an analysis on the RGB colour space to check for colours that were not well reprented in our database any manuaklly added some colour labels to test, then ran steps 2-4 again.
+### Step 5: Manual Tweaking
+We ran an analysis on the RGB colour space to check for colours that were not well represented in our database any manually added some colour labels to test, then ran steps 2-4 again.
 
 ## Contribute
 We welcome contributions and suggestions to enhance the accuracy and utility of this dataset:
-
-### Data Analysis: Help refine comparison techniques or introduce new metrics.
-### Model Testing: Propose other models or methods for generating and evaluating color accuracy.
+Data Analysis: Help refine comparison techniques or introduce new metrics.
+Model Testing: Propose other methods for generating and evaluating color accuracy. Test on other image generation models.
 ### Usage
 Feel free to use this dataset for both academic and commercial purposes. We ask that you cite this repository if you publish results that make use of this data.
 ### Disclaimer
