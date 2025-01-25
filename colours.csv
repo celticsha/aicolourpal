@@ -18,16 +18,16 @@ aqua seafoam green,16.62,133 210 177,#85d2b1
 aquamarine,21.82,103 188 184,#67bcb8
 aquamarine stone,25.44,104 178 173,#68b2ad
 army brown,20.42,127 92 58,#7f5c3a
-army green,36.74,89 131 63,#59833f
+army green,26.18,70 111 55,#466f37
 ash gray,21.14,128 128 123,#80807b
 ash white,15.42,202 201 191,#cac9bf
 avocado green,24.61,132 179 46,#84b32e
 aztech purple,18.03,101 62 117,#653e75
 azur,36.8,103 147 136,#679388
-azur hue pb15,46.67,161 183 157,#a1b79d
+azur hue pb15,38.42,126 151 140,#7e978c
 azure,26.07,70 161 186,#46a1ba
 azure blue,25.65,49 148 189,#3194bd
-baby blue,18.81,136 185 202,#88b9ca
+baby blue,19.37,137 181 197,#89b5c5
 baby doll blue,21.62,131 168 178,#83a8b2
 baby pink,14.99,224 170 170,#e0aaaa
 bakers brown,24.32,141 100 64,#8d6440
@@ -36,7 +36,7 @@ banana yellow,10.69,234 210 24,#ead218
 barbie pink,14.09,224 142 163,#e08ea3
 baryte green,28.05,48 147 71,#309347
 baryte green py32 py31,31.14,61 167 74,#3da74a
-bashful pink,17.86,220 152 157,#dc989d
+bashful pink,19.68,217 155 158,#d99b9e
 basil green,26.81,69 148 70,#459446
 basket ball orange,25.84,201 102 19,#c96613
 battleship gray,20.11,115 120 117,#737875
@@ -46,13 +46,13 @@ beer,23.83,197 138 36,#c58a24
 beetle green,29.8,62 140 56,#3e8c38
 beige,13.38,213 186 144,#d5ba90
 bisque,23.33,197 172 130,#c5ac82
-black,10.45,24 24 21,#181815
-black bean,43.29,91 79 47,#5b4f2f
-black blue,27.69,23 63 99,#173f63
+black,11.53,25 25 22,#191916
+black bean,29.59,59 51 34,#3b3322
+black blue,25.12,18 46 71,#122e47
 black eel,21.73,37 37 34,#252522
 black for fresco,18.78,42 42 38,#2a2a26
 black for fresco pbk67,17.14,38 36 31,#26241f
-black lake,34.73,79 89 77,#4f594d
+black lake,29.69,75 83 78,#4b534e
 blanc,21.08,192 192 181,#c0c0b5
 blanche,18.69,197 195 181,#c5c3b5
 blanchedalmond,18.76,212 191 149,#d4bf95
@@ -61,7 +61,7 @@ bleue,23.17,73 142 177,#498eb1
 blonde,23.89,196 169 95,#c4a95f
 blood red,24.32,162 20 16,#a21410
 blossom pink,18.96,212 155 162,#d49ba2
-blue,25.85,53 134 179,#3586b3
+blue,26.32,54 133 176,#3685b0
 blue angel,21.31,77 138 175,#4d8aaf
 blue black,27.06,18 53 84,#123554
 blue diamond,25.9,61 129 171,#3d81ab
@@ -70,7 +70,7 @@ blue green,25.92,43 160 132,#2ba084
 blue hosta,22.24,83 134 171,#5386ab
 blue ivy,27.84,43 114 132,#2b7284
 blue lagoon,19.99,95 172 192,#5facc0
-blue magenta,36.62,80 100 171,#5064ab
+blue magenta,31.21,66 78 148,#424e94
 blue moss green,21.46,71 149 127,#47957f
 blue orchid,26.69,95 144 178,#5f90b2
 blue ribbon,33.81,91 138 162,#5b8aa2
@@ -78,7 +78,7 @@ blue turquoise,25.36,67 175 180,#43afb4
 blue zircon,26.95,49 119 160,#3177a0
 blueberry blue,22.96,54 107 154,#366b9a
 blueviolet,22.0,69 77 158,#454d9e
-bluey almost black,27.85,21 66 105,#154269
+bluey almost black,26.38,17 50 79,#11324f
 bluey black,22.78,19 46 69,#132e45
 blurple,17.52,118 80 140,#76508c
 blush,17.2,212 156 147,#d49c93
@@ -121,7 +121,7 @@ bold reddish orange,18.35,217 72 12,#d9480c
 bold reddish pink,16.58,211 61 71,#d33d47
 bold reddish purple,27.02,144 30 62,#901e3e
 bold turquoise,32.56,72 188 172,#48bcac
-bold yellow,13.16,238 210 11,#eed20b
+bold yellow,15.41,239 210 3,#efd203
 bold yellowish brown,16.55,223 171 12,#dfab0c
 bold yellowish gray,18.79,218 186 46,#daba2e
 bold yellowy green,23.38,197 217 5,#c5d905
@@ -131,7 +131,7 @@ bone white,22.77,197 195 182,#c5c3b6
 bottle green,21.09,44 145 61,#2c913d
 brass,22.94,153 115 47,#99732f
 bright black,15.7,29 23 16,#1d1710
-bright blue,27.12,49 149 195,#3195c3
+bright blue,28.68,45 149 197,#2d95c5
 bright blueish purple,20.1,86 82 167,#5652a7
 bright bluey gray,25.45,100 146 168,#6492a8
 bright bluey turquoise,27.63,56 191 195,#38bfc3
@@ -141,7 +141,7 @@ bright cyan,34.59,82 190 180,#52beb4
 bright gold,21.85,219 166 21,#dba615
 bright grape,22.02,132 66 116,#844274
 bright gray,19.84,142 144 140,#8e908c
-bright green,19.01,70 224 46,#46e02e
+bright green,19.27,69 222 43,#45de2b
 bright greenish blue,31.09,65 194 139,#41c28b
 bright greenish brown,27.07,123 148 48,#7b9430
 bright greenish gray,26.15,115 166 116,#73a674
@@ -151,17 +151,17 @@ bright lilac,18.21,182 143 189,#b68fbd
 bright maroon,24.77,142 30 32,#8e1e20
 bright navy blue,27.95,30 71 115,#1e4773
 bright neon pink,21.26,219 63 124,#db3f7c
-bright orange,16.44,226 114 10,#e2720a
+bright orange,14.56,227 113 9,#e37109
 bright orangy brown,15.92,213 109 18,#d56d12
 bright orangy gray,22.14,197 118 55,#c57637
 bright orangy pink,14.54,229 109 86,#e56d56
 bright orangy red,19.07,221 66 15,#dd420f
 bright orangy yellow,13.3,240 186 4,#f0ba04
-bright pink,21.63,221 100 138,#dd648a
+bright pink,14.77,222 100 138,#de648a
 bright pinkish orange,15.31,231 112 72,#e77048
 bright pinkish purple,21.01,204 83 152,#cc5398
 bright pinkish red,18.04,218 62 76,#da3e4c
-bright purple,18.44,126 64 146,#7e4092
+bright purple,20.78,124 62 149,#7c3e95
 bright purplish brown,22.9,131 62 77,#833e4d
 bright purplish gray,15.13,130 104 143,#82688f
 bright purply blue,30.23,64 77 158,#404d9e
@@ -173,8 +173,8 @@ bright reddish orange,18.19,221 71 12,#dd470c
 bright reddish pink,18.55,217 58 73,#d93a49
 bright reddish purple,26.81,168 28 67,#a81c43
 bright teal,24.71,67 177 158,#43b19e
-bright turquoise,27.06,76 196 177,#4cc4b1
-bright yellow,11.95,239 218 10,#efda0a
+bright turquoise,26.01,73 199 181,#49c7b5
+bright yellow,12.61,238 214 3,#eed603
 bright yellow py1 pr4,18.86,235 209 15,#ebd10f
 bright yellowish brown,16.37,227 175 14,#e3af0e
 bright yellowish gray,21.15,219 192 55,#dbc037
@@ -225,7 +225,7 @@ brilliant yellowy orange,15.8,237 176 4,#edb004
 broccoli green,25.44,80 171 61,#50ab3d
 bronze,19.27,127 81 42,#7f512a
 bronze gold,20.45,162 115 42,#a2732a
-brown,19.56,145 92 50,#915c32
+brown,18.12,145 94 55,#915e37
 brown madder,20.68,147 75 29,#934b1d
 brown madder pbr23 py42,21.1,132 78 40,#844e28
 brown ochre,13.41,186 120 39,#ba7827
@@ -234,7 +234,7 @@ brown rust,17.58,158 85 37,#9e5525
 brown sand,15.15,187 138 88,#bb8a58
 brown sugar,17.63,174 113 56,#ae7138
 bullet shell,29.9,143 116 63,#8f743f
-burgundy,21.16,108 35 43,#6c232b
+burgundy,21.13,118 37 41,#762529
 burlywood,24.13,173 137 84,#ad8954
 burnt pink,22.5,208 118 121,#d07679
 burnt sienna,16.49,189 98 26,#bd621a
@@ -277,7 +277,7 @@ cadmium yellow medium,15.89,234 203 19,#eacb13
 cadmium yellow medium py35,8.89,237 210 30,#edd21e
 cadmium yellow medium sub py1,9.53,236 214 10,#ecd60a
 camel brown,17.26,179 130 79,#b3824f
-camouflage green,51.62,84 133 59,#54853b
+camouflage green,29.32,62 115 50,#3e7332
 canary blue,34.49,146 177 153,#92b199
 canary yellow,14.51,236 207 19,#eccf13
 cantaloupe,25.81,205 149 45,#cd952d
@@ -295,7 +295,7 @@ cerulean blue sub,30.35,61 150 179,#3d96b3
 cerulean blue sub pb15,30.87,70 155 186,#469bba
 chameleon green,34.33,63 154 61,#3f9a3d
 champagne,24.02,190 156 98,#be9c62
-charcoal,21.59,69 66 60,#45423c
+charcoal,16.83,64 65 62,#40413e
 charcoal blue,20.59,42 68 88,#2a4458
 chartreuse,18.54,164 217 33,#a4d921
 cheese orange,16.51,218 142 13,#da8e0d
@@ -337,7 +337,7 @@ cobalt green light,25.45,27 158 81,#1b9e51
 cobalt green light pg19,30.38,56 180 100,#38b464
 cobalt violet deep,25.02,51 48 125,#33307d
 cobalt violet deep pv14,26.67,55 55 125,#37377d
-cold metal,34.79,108 106 100,#6c6a64
+cold metal,32.41,90 86 79,#5a564f
 columbia blue,24.59,77 131 160,#4d83a0
 construction cone orange,19.84,211 110 22,#d36e16
 cookie brown,19.41,147 100 59,#93643b
@@ -357,7 +357,7 @@ cranberry,29.85,145 55 55,#913737
 cream,14.58,210 194 155,#d2c29b
 cream white,9.15,225 219 200,#e1dbc8
 creamy white,9.87,224 218 197,#e0dac5
-crimson,26.43,177 26 23,#b11a17
+crimson,26.36,165 26 22,#a51a16
 crimson purple,23.46,116 29 66,#741d42
 crimson red,23.83,166 19 17,#a61311
 crocus purple,17.85,138 108 152,#8a6c98
@@ -365,13 +365,12 @@ crystal blue,22.15,76 155 192,#4c9bc0
 cyan,30.56,91 178 176,#5bb2b0
 cyan blue,27.39,61 160 187,#3da0bb
 cyan opaque,28.83,74 173 181,#4aadb5
-cyan or aqua,34.17,112 211 211,#70d3d3
 dark almond,27.62,158 122 72,#9e7a48
 dark beige,18.5,176 146 108,#b0926c
 dark bisque,35.91,115 93 61,#735d3d
 dark black,9.97,22 22 20,#161614
 dark blonde,26.62,142 106 59,#8e6a3b
-dark blue,28.1,26 76 125,#1a4c7d
+dark blue,26.69,19 53 88,#133558
 dark blue gray,19.89,53 72 86,#354856
 dark blueish purple,18.25,45 41 86,#2d2956
 dark bluey gray,18.78,50 67 79,#32434f
@@ -379,9 +378,9 @@ dark bluey green,27.66,20 88 67,#145843
 dark bluey turquoise,29.41,23 120 126,#17787e
 dark blurple,20.64,69 44 84,#452c54
 dark bronze,23.39,85 56 35,#553823
-dark brown,21.34,84 53 33,#543521
+dark brown,21.73,80 51 32,#503320
 dark brownish gray,16.62,71 61 51,#473d33
-dark carnation pink,26.78,217 112 125,#d9707d
+dark carnation pink,30.57,176 90 101,#b05a65
 dark coffee,25.3,81 54 34,#513622
 dark forest green,18.98,30 83 52,#1e5334
 dark gainsboro,30.39,71 65 53,#474135
@@ -409,11 +408,11 @@ dark orangy gray,25.81,110 70 45,#6e462d
 dark orangy pink,27.86,189 80 66,#bd5042
 dark orangy red,36.78,161 38 11,#a1260b
 dark orangy yellow,29.56,199 138 5,#c78a05
-dark pink,21.15,186 85 103,#ba5567
+dark pink,24.71,177 71 95,#b1475f
 dark pinkish orange,24.13,195 81 45,#c3512d
 dark pinkish purple,25.51,119 45 84,#772d54
 dark pinkish red,31.67,160 36 48,#a02430
-dark purple,16.56,71 41 85,#472955
+dark purple,18.71,61 34 74,#3d224a
 dark purplish brown,17.6,75 39 45,#4b272d
 dark purplish gray,14.82,66 53 66,#423542
 dark purply blue,24.73,34 42 87,#222a57
@@ -426,19 +425,19 @@ dark reddish orange,33.5,175 51 9,#af3309
 dark reddish pink,34.66,155 40 53,#9b2835
 dark reddish purple,22.76,81 23 41,#511729
 dark scarlet,26.25,136 19 18,#881312
-dark sea green,20.47,30 97 69,#1e6145
+dark sea green,18.28,36 101 73,#246549
 dark sienna,20.34,152 78 28,#984e1c
 dark sky blue,26.75,48 104 137,#306889
 dark slate,20.54,55 64 64,#374040
-dark slate gray,15.16,54 59 59,#363b3b
+dark slate gray,17.94,67 73 73,#434949
 dark teal,20.11,31 93 85,#1f5d55
 dark turquoise,31.39,32 121 114,#207972
 dark violet,20.66,65 33 82,#412152
 dark white,36.8,145 144 138,#91908a
-dark yellow,28.16,206 168 7,#cea807
+dark yellow,28.35,202 163 4,#caa304
 dark yellowish brown,22.86,185 130 12,#b9820c
 dark yellowish gray,28.39,168 131 29,#a8831d
-dark yellowy green,36.41,198 191 17,#c6bf11
+dark yellowy green,37.44,147 148 12,#93940c
 dark yellowy orange,23.94,202 131 5,#ca8305
 darkblue,24.52,32 60 87,#203c57
 darkcyan,30.68,39 88 101,#275865
@@ -446,7 +445,6 @@ darkest green,25.74,21 83 41,#155329
 darkest navy,24.38,37 47 58,#252f3a
 darkgoldenrod,32.34,154 61 20,#9a3d14
 darkgray,19.15,71 73 72,#474948
-darkgray or darkgrey,31.79,100 100 97,#646461
 darkgreen,20.14,31 90 51,#1f5a33
 darkgrey,19.01,72 74 72,#484a48
 darkkhaki,26.8,47 45 34,#2f2d22
@@ -459,7 +457,6 @@ darksalmon,39.66,161 82 60,#a1523c
 darkseagreen,20.17,26 99 67,#1a6343
 darkslateblue,20.77,39 66 84,#274254
 darkslategray,17.29,67 74 73,#434a49
-darkslategray or darkslategrey,16.4,89 96 95,#59605f
 darkslategrey,17.83,70 76 76,#464c4c
 darkturquoise,30.09,37 112 106,#25706a
 darkviolet,17.21,66 38 88,#422658
@@ -477,7 +474,7 @@ deep brownish gray,17.61,84 70 57,#544639
 deep cadmium yellow,19.59,228 188 4,#e4bc04
 deep emerald green,16.51,19 112 58,#13703a
 deep gray,18.52,75 78 77,#4b4e4d
-deep green,18.97,29 119 55,#1d7737
+deep green,26.71,23 108 48,#176c30
 deep greenish blue,26.82,27 110 91,#1b6e5b
 deep greenish brown,25.95,69 81 44,#45512c
 deep greenish gray,19.02,64 90 74,#405a4a
@@ -490,7 +487,7 @@ deep orangy pink,18.26,215 91 70,#d75b46
 deep orangy red,25.73,196 52 13,#c4340d
 deep orangy yellow,20.0,224 155 6,#e09b06
 deep peach,18.06,216 141 105,#d88d69
-deep periwinkle,33.15,129 155 180,#819bb4
+deep periwinkle,28.21,103 130 161,#6782a1
 deep pink,20.62,201 83 112,#c95370
 deep pinkish orange,16.28,216 91 57,#d85b39
 deep pinkish purple,21.9,149 55 104,#953768
@@ -500,7 +497,7 @@ deep purplish brown,17.67,88 43 52,#582b34
 deep purplish gray,18.43,82 62 82,#523e52
 deep purply blue,28.26,48 49 107,#30316b
 deep purply red,23.7,110 23 38,#6e1726
-deep red,21.08,151 20 19,#971413
+deep red,24.32,149 18 17,#951211
 deep reddish brown,25.37,119 40 21,#772815
 deep reddish gray,24.15,97 45 44,#612d2c
 deep reddish orange,24.22,195 55 10,#c3370a
@@ -511,8 +508,8 @@ deep sea blue,26.09,38 111 148,#266f94
 deep sea green,20.96,32 129 88,#208158
 deep sky blue,27.62,57 129 167,#3981a7
 deep teal,19.76,37 114 105,#257269
-deep turquoise,26.1,43 147 140,#2b938c
-deep yellow,22.15,224 186 11,#e0ba0b
+deep turquoise,28.12,38 151 142,#26978e
+deep yellow,24.55,223 184 4,#dfb804
 deep yellowish brown,19.45,200 141 14,#c88d0e
 deep yellowish gray,25.45,185 148 35,#b99423
 deep yellowy green,31.22,162 174 8,#a2ae08
@@ -524,19 +521,18 @@ denim blue,23.08,64 109 144,#406d90
 denim dark blue,20.86,33 60 87,#213c57
 desert sand,14.03,207 171 121,#cfab79
 dimgray,18.57,120 124 116,#787c74
-dimgray or dimgrey,19.67,149 148 142,#95948e
 dimgrey,28.64,124 123 104,#7c7b68
 dimorphotheca magenta,31.84,175 80 110,#af506e
 dinosaur green,27.6,73 151 68,#499744
 dirty blue,24.12,49 112 145,#317091
 dirty blueish purple,17.65,72 68 122,#48447a
 dirty bluey gray,17.12,99 121 129,#637981
-dirty bluey green,28.81,60 156 112,#3c9c70
+dirty bluey green,27.75,49 130 99,#318263
 dirty bluey turquoise,26.15,57 159 158,#399f9e
 dirty brown,17.13,133 81 42,#85512a
 dirty brownish gray,15.8,113 98 77,#71624d
 dirty gray,13.56,114 115 108,#72736c
-dirty green,39.01,73 143 62,#498f3e
+dirty green,28.19,58 118 58,#3a763a
 dirty greenish blue,24.67,63 131 110,#3f836e
 dirty greenish brown,23.46,99 102 57,#636639
 dirty greenish gray,18.13,96 116 95,#60745f
@@ -647,27 +643,27 @@ firebrick,31.39,172 74 33,#ac4a21
 flake white,22.2,195 196 187,#c3c4bb
 flake white pw1,20.21,199 199 189,#c7c7bd
 flamingo pink,24.5,208 135 145,#d08791
-fluorescent blue,33.33,36 152 196,#2498c4
+fluorescent blue,31.31,35 151 198,#2397c6
 fluorescent blueish purple,24.7,68 57 178,#4439b2
 fluorescent bluey gray,27.68,68 136 166,#4488a6
 fluorescent bluey green,30.28,51 209 101,#33d165
 fluorescent bluey turquoise,24.59,45 200 201,#2dc8c9
 fluorescent brown,25.39,191 102 17,#bf6611
-fluorescent brownish gray,30.74,198 158 56,#c69e38
+fluorescent brownish gray,32.65,144 112 55,#907037
 fluorescent gray,39.82,125 136 98,#7d8862
-fluorescent green,23.24,84 229 27,#54e51b
+fluorescent green,26.17,80 233 26,#50e91a
 fluorescent greenish blue,32.29,53 204 103,#35cc67
 fluorescent greenish brown,36.11,118 168 27,#76a81b
 fluorescent greenish gray,29.49,107 187 79,#6bbb4f
 fluorescent greenish yellow,27.57,162 236 8,#a2ec08
 fluorescent greeny turquoise,25.83,63 229 100,#3fe564
-fluorescent orange,20.7,223 108 7,#df6c07
+fluorescent orange,20.35,224 110 6,#e06e06
 fluorescent orangy brown,17.47,213 101 14,#d5650e
 fluorescent orangy gray,28.72,191 106 47,#bf6a2f
 fluorescent orangy pink,22.58,227 84 78,#e3544e
 fluorescent orangy red,19.98,221 56 14,#dd380e
 fluorescent orangy yellow,28.15,234 192 2,#eac002
-fluorescent pink,8.42,233 89 137,#e95989
+fluorescent pink,23.17,218 70 131,#da4683
 fluorescent pinkish orange,19.82,227 92 68,#e35c44
 fluorescent pinkish purple,25.23,194 51 155,#c2339b
 fluorescent pinkish red,21.74,213 39 78,#d5274e
@@ -676,13 +672,13 @@ fluorescent purplish brown,31.75,144 51 81,#903351
 fluorescent purplish gray,19.82,120 84 143,#78548f
 fluorescent purply blue,49.7,50 94 175,#325eaf
 fluorescent purply red,29.19,188 31 59,#bc1f3b
-fluorescent red,22.65,204 24 16,#cc1810
+fluorescent red,22.42,202 20 16,#ca1410
 fluorescent reddish brown,31.07,189 52 15,#bd340f
 fluorescent reddish gray,40.12,164 63 58,#a43f3a
 fluorescent reddish orange,23.84,219 64 9,#db4009
 fluorescent reddish pink,22.48,212 42 83,#d42a53
 fluorescent turquoise,30.9,65 211 170,#41d3aa
-fluorescent yellow,13.65,230 234 6,#e6ea06
+fluorescent yellow,17.36,225 233 6,#e1e906
 fluorescent yellowish brown,32.3,221 179 7,#ddb307
 fluorescent yellowish gray,31.42,199 201 32,#c7c920
 fluorescent yellowy green,23.87,167 236 7,#a7ec07
@@ -752,7 +748,7 @@ golden blonde,23.4,204 161 64,#cca140
 golden brown,17.51,196 130 36,#c48224
 golden silk,16.96,203 149 39,#cb9527
 golden yellow,17.87,233 194 15,#e9c20f
-goldenrod,18.75,206 143 17,#ce8f11
+goldenrod,19.3,215 174 27,#d7ae1b
 granite,31.27,150 130 100,#968264
 grapefruit,24.38,213 133 51,#d58533
 grass green,21.46,92 179 69,#5cb345
@@ -761,7 +757,6 @@ gray brown,19.23,123 107 89,#7b6b59
 gray dolphin,21.27,128 137 136,#808988
 gray goose,16.96,156 156 147,#9c9c93
 gray green,18.37,104 132 107,#68846b
-gray or grey,9.98,164 163 158,#a4a39e
 gray wolf,14.69,113 116 112,#717470
 grayish turquoise,19.61,125 168 159,#7da89f
 green,27.03,61 165 61,#3da53d
@@ -789,9 +784,9 @@ helios red,28.54,184 36 22,#b82416
 helios red pr3,30.57,174 41 27,#ae291b
 heliotrope purple,19.16,115 74 126,#734a7e
 hint of pink,22.52,215 146 151,#d79297
-honeydew,33.47,185 189 61,#b9bd3d
+honeydew,37.24,166 175 67,#a6af43
 hot deep pink,21.57,201 51 94,#c9335e
-hot pink,16.27,216 79 121,#d84f79
+hot pink,19.85,216 86 122,#d8567a
 hotpink,21.74,210 87 113,#d25771
 hummingbird green,27.36,97 164 81,#61a451
 hunter green,19.99,62 126 67,#3e7e43
@@ -803,7 +798,7 @@ indian yellow sub py1 py83,19.46,223 189 14,#dfbd0e
 indianred,26.55,180 47 28,#b42f1c
 indigo,26.45,40 80 128,#285080
 indigo blue,26.25,28 82 138,#1c528a
-indigo blue pb60,27.69,83 133 176,#5385b0
+indigo blue pb60,28.72,49 96 143,#31608f
 iridescent,31.21,148 119 111,#94776f
 irish green,25.76,45 143 59,#2d8f3b
 iron gray,17.79,92 95 92,#5c5f5c
@@ -840,12 +835,12 @@ lemony white,14.97,230 221 141,#e6dd8d
 light aquamarine,21.48,135 205 196,#87cdc4
 light beige,11.62,218 195 156,#dac39c
 light black,16.07,35 34 30,#23221e
-light blue,22.2,136 192 211,#88c0d3
+light blue,22.28,129 185 206,#81b9ce
 light blueish purple,18.99,144 142 197,#908ec5
 light bluey gray,17.47,147 172 180,#93acb4
 light bluey green,24.8,120 204 167,#78cca7
 light bluey turquoise,21.03,119 208 203,#77d0cb
-light brown,18.88,177 127 80,#b17f50
+light brown,17.05,184 133 83,#b88553
 light brownish gray,18.5,163 143 118,#a38f76
 light copper,20.59,172 106 64,#ac6a40
 light cyan,28.99,99 182 173,#63b6ad
@@ -863,23 +858,23 @@ light greeny turquoise,24.07,127 219 169,#7fdba9
 light jade,24.67,109 187 134,#6dbb86
 light mint green,15.73,164 224 178,#a4e0b2
 light olive green,17.5,133 157 73,#859d49
-light orange,18.07,221 126 32,#dd7e20
+light orange,14.79,226 130 36,#e28224
 light orangy brown,16.46,208 124 52,#d07c34
 light orangy gray,22.34,189 145 110,#bd916e
 light orangy pink,17.62,228 146 123,#e4927b
 light orangy red,22.69,215 77 28,#d74d1c
 light orangy yellow,17.31,236 186 22,#ecba16
-light pink,15.24,227 173 174,#e3adae
+light pink,16.1,224 167 168,#e0a7a8
 light pinkish orange,15.03,230 149 113,#e69571
 light pinkish purple,22.42,209 147 186,#d193ba
 light pinkish red,22.34,219 110 104,#db6e68
-light purple,21.91,170 133 185,#aa85b9
+light purple,22.25,178 141 194,#b28dc2
 light purple blue,25.25,131 124 190,#837cbe
 light purplish brown,17.27,157 107 102,#9d6b66
 light purplish gray,16.14,156 139 161,#9c8ba1
 light purply blue,28.4,94 135 184,#5e87b8
 light purply red,27.95,178 35 46,#b2232e
-light red,29.68,188 37 27,#bc251b
+light red,28.87,189 34 26,#bd221a
 light reddish brown,21.66,185 91 49,#b95b31
 light reddish gray,25.5,165 109 96,#a56d60
 light reddish orange,21.43,216 89 32,#d85920
@@ -908,7 +903,6 @@ lightcyan,32.3,101 174 176,#65aeb0
 lightest yellow,14.42,238 210 31,#eed21f
 lightgoldenrodyellow,22.72,222 160 14,#dea00e
 lightgray,19.98,158 159 152,#9e9f98
-lightgray or lightgrey,9.28,201 197 188,#c9c5bc
 lightgreen,28.09,91 199 91,#5bc75b
 lightgrey,18.99,164 166 157,#a4a69d
 lightpink,23.37,216 157 160,#d89da0
@@ -916,7 +910,6 @@ lightsalmon,30.92,191 131 104,#bf8368
 lightseagreen,25.49,111 196 134,#6fc486
 lightskyblue,20.8,160 198 208,#a0c6d0
 lightslategray,19.38,135 141 135,#878d87
-lightslategray or lightslategrey,10.9,173 173 166,#adada6
 lightslategrey,16.76,135 140 135,#878c87
 lightsteelblue,24.63,94 140 165,#5e8ca5
 lightyellow,16.67,232 206 39,#e8ce27
@@ -933,7 +926,6 @@ love red,28.47,179 34 28,#b3221c
 lovely purple,15.86,141 99 151,#8d6397
 macaw blue green,37.36,62 140 103,#3e8c67
 magenta,29.37,176 49 107,#b0316b
-magenta or fuchsia,19.24,210 51 128,#d23380
 magenta pink,21.54,208 69 126,#d0457e
 magic mint,24.0,124 179 154,#7cb39a
 mango orange,18.18,218 129 15,#da810f
@@ -971,7 +963,7 @@ midnight,29.89,49 51 51,#313333
 midnight green,22.39,22 84 52,#165434
 midnight purple,18.62,66 39 89,#422759
 midnightblue,23.83,29 66 102,#1d4266
-military green,35.68,82 121 66,#527942
+military green,25.15,67 103 56,#436738
 milk chocolate,18.98,116 76 51,#744c33
 milk white,13.19,212 212 202,#d4d4ca
 millennium jade,27.84,50 134 85,#328655
@@ -985,7 +977,7 @@ misty rose,19.15,199 154 149,#c79a95
 mistyrose,22.29,192 143 138,#c08f8a
 mocha,18.65,133 96 67,#856043
 moss green,20.47,78 132 59,#4e843b
-murky green,32.71,65 144 69,#419045
+murky green,27.07,45 105 55,#2d6937
 mustard,15.62,219 173 18,#dbad12
 mustard yellow,15.66,232 191 15,#e8bf0f
 muted black,10.81,31 31 29,#1f1f1d
@@ -1061,9 +1053,9 @@ ocean green,23.54,63 162 113,#3fa271
 off white,11.69,212 211 199,#d4d3c7
 old burgundy,23.5,116 51 48,#743330
 old rose,24.47,183 126 113,#b77e71
-olive,37.08,156 152 71,#9c9847
+olive,26.43,130 128 63,#82803f
 olive drab,23.34,108 113 64,#6c7140
-olive green,31.18,128 152 65,#809841
+olive green,23.1,99 127 55,#637f37
 olivedrab,25.3,121 121 63,#79793f
 orange,15.62,221 113 15,#dd710f
 orange gold,17.28,221 133 13,#dd850d
@@ -1098,7 +1090,7 @@ pale orangy gray,16.3,207 176 145,#cfb091
 pale orangy pink,12.51,233 171 148,#e9ab94
 pale orangy red,16.14,224 111 70,#e06f46
 pale orangy yellow,12.96,240 198 62,#f0c63e
-pale pink,15.45,224 178 172,#e0b2ac
+pale pink,13.37,229 183 178,#e5b7b2
 pale pinkish orange,12.61,235 167 132,#eba784
 pale pinkish purple,14.38,212 167 193,#d4a7c1
 pale pinkish red,16.06,225 140 130,#e18c82
@@ -1115,7 +1107,7 @@ pale reddish orange,16.18,229 125 75,#e57d4b
 pale reddish pink,13.48,227 156 143,#e39c8f
 pale reddish purple,18.71,192 131 151,#c08397
 pale silver,17.71,170 171 164,#aaaba4
-pale turquoise,16.26,160 216 198,#a0d8c6
+pale turquoise,18.03,156 211 194,#9cd3c2
 pale violet red,19.51,196 88 97,#c45861
 pale yellow,11.79,238 218 89,#eeda59
 pale yellowish brown,13.76,226 186 90,#e2ba5a
@@ -1158,7 +1150,7 @@ periwinkle purple,16.58,151 124 177,#977cb1
 permanent red deep,24.35,161 28 21,#a11c15
 permanent red deep pr3 pr482,37.98,194 21 11,#c2150b
 petra gold,20.73,198 149 48,#c69530
-phosphorescent,87.01,138 174 54,#8aae36
+phosphorescent,67.41,115 127 63,#737f3f
 phtalocyanine green,25.86,42 157 72,#2a9d48
 phtalocyanine green pg7,28.73,58 165 78,#3aa54e
 phthalocyanine blue,29.47,36 121 172,#2479ac
@@ -1186,7 +1178,7 @@ plum velvet,19.27,94 44 68,#5e2c44
 powder pink,14.01,220 158 161,#dc9ea1
 powderblue,21.23,90 153 182,#5a99b6
 primary blue,28.43,59 135 178,#3b87b2
-primary blue pb15,28.26,119 178 209,#77b2d1
+primary blue pb15,30.46,80 142 176,#508eb0
 primary red,25.68,190 32 20,#be2014
 primary red pv19,25.87,183 36 27,#b7241b
 primary yellow,18.07,237 207 12,#edcf0c
@@ -1232,7 +1224,6 @@ red ochre pr102,23.17,192 75 28,#c04b1c
 red pink,19.95,204 66 71,#cc4247
 red white,31.32,199 88 80,#c75850
 red wine,27.07,119 39 41,#772729
-red wine or wine red,19.64,139 40 50,#8b2832
 rice,20.85,195 157 64,#c39d40
 rich lilac,17.61,173 141 173,#ad8dad
 rich navy,27.31,55 63 73,#373f49
@@ -1243,7 +1234,6 @@ roman silver,21.49,148 144 134,#949086
 rose dust,19.46,185 124 120,#b97c78
 rose gold,17.43,195 135 108,#c3876c
 rose pink,22.84,206 142 145,#ce8e91
-rose pink or pink rose,11.92,237 169 170,#eda9aa
 rose purple,22.11,150 84 127,#96547f
 rose quartz,22.19,218 159 161,#da9fa1
 rose red,33.21,172 44 44,#ac2c2c
@@ -1251,8 +1241,8 @@ rosy,24.62,191 123 109,#bf7b6d
 rosy brown,18.87,170 103 66,#aa6742
 rosy pink,22.45,213 141 144,#d58d90
 rosybrown,18.57,162 96 64,#a26040
-rouge,35.4,207 83 65,#cf5341
-royal blue,30.18,32 94 166,#205ea6
+rouge,39.36,172 54 43,#ac362b
+royal blue,29.97,32 95 161,#205fa1
 royal pink,25.19,210 115 138,#d2738a
 royalblue,28.24,38 101 160,#2665a0
 rubber ducky yellow,21.36,216 189 21,#d8bd15
@@ -1274,7 +1264,7 @@ sangria,40.37,167 56 42,#a7382a
 sapphire blue,29.79,31 96 161,#1f60a1
 saturated blue,27.45,38 128 178,#2680b2
 saturated magenta,25.75,180 37 101,#b42565
-saturated navy,39.81,60 87 118,#3c5776
+saturated navy,29.14,43 64 89,#2b4059
 saturated purple,18.29,119 64 137,#774089
 scarlet,25.38,181 29 22,#b51d16
 scarlet red,23.18,182 22 18,#b61612
@@ -1286,7 +1276,7 @@ sea turtle green,30.72,63 146 91,#3f925b
 seafoam green,17.59,133 201 161,#85c9a1
 seagreen,26.23,76 156 108,#4c9c6c
 seaweed green,23.28,72 145 85,#489155
-sedona,40.37,190 157 123,#be9d7b
+sedona,34.67,171 122 91,#ab7a5b
 sepia,16.33,182 130 67,#b68243
 sepia brown,18.23,155 105 64,#9b6940
 shamrock green,20.7,43 160 51,#2ba033
@@ -1299,16 +1289,15 @@ silver pink,17.09,203 158 162,#cb9ea2
 silver white,17.15,193 195 190,#c1c3be
 sky blue,17.62,125 181 205,#7db5cd
 skyblue,17.69,127 180 201,#7fb4c9
-slate blue,24.92,62 100 123,#3e647b
+slate blue,21.54,75 106 124,#4b6a7c
 slate blue gray,19.65,93 110 118,#5d6e76
 slate granite gray,19.79,106 109 105,#6a6d69
 slate gray,18.48,99 103 101,#636765
 slateblue,22.86,80 113 130,#507182
 slategray,19.33,111 115 112,#6f7370
-slategray or slategrey,15.89,134 138 134,#868a86
 slategrey,18.02,104 111 109,#686f6d
 slime green,28.72,62 186 49,#3eba31
-smokey gray,23.28,127 126 120,#7f7e78
+smokey gray,20.23,101 102 97,#656661
 soft blue,19.01,138 185 204,#8ab9cc
 soft hazel,21.38,186 155 117,#ba9b75
 soft ivory,11.67,220 208 179,#dcd0b3
@@ -1344,7 +1333,7 @@ tomato sauce red,30.43,185 39 18,#b92712
 tron blue,25.5,42 113 157,#2a719d
 tulip pink,21.15,203 143 146,#cb8f92
 tumeric,24.08,198 155 22,#c69b16
-turquoise,26.23,83 188 177,#53bcb1
+turquoise,27.76,81 183 168,#51b7a8
 turquoise green,28.15,58 184 137,#3ab889
 tyrian purple,20.2,94 53 101,#5e3565
 tyrian rose,29.17,160 82 76,#a0524c
@@ -1437,13 +1426,12 @@ wild strawberry,29.33,177 78 75,#b14e4b
 windows blue,23.66,64 142 189,#408ebd
 wine red,23.83,123 32 34,#7b2022
 wisteria purple,14.11,150 117 165,#9675a5
-yellow,12.48,243 222 9,#f3de09
+yellow,18.85,234 202 7,#eaca07
 yellow gold,18.16,227 183 14,#e3b70e
 yellow lawn green,18.3,206 215 17,#ced711
 yellow ochre,13.11,231 193 17,#e7c111
 yellow ochre py43,15.44,228 188 26,#e4bc1a
 yellow orange,14.56,236 172 6,#ecac06
-yellow orange or orange yellow,8.03,244 190 10,#f4be0a
 yellowgreen,26.75,191 207 14,#bfcf0e
 yellowy white,14.16,238 215 78,#eed74e
 zinc white,18.25,197 197 189,#c5c5bd
